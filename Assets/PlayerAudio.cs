@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Audio;
 
 public class PlayerAudio : MonoBehaviour
 {
@@ -12,6 +13,11 @@ public class PlayerAudio : MonoBehaviour
         if (other.CompareTag("Water"))
         {
             audioS.PlayOneShot(splashSound);
+        }
+
+        if (other.CompareTag("EnemyTrigger"))
+        {
+
         }
     }
 
