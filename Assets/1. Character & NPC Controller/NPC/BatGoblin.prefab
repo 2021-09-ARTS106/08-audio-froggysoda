@@ -103,7 +103,7 @@ GameObject:
   - component: {fileID: -1971883606065319760}
   m_Layer: 10
   m_Name: BatGoblin
-  m_TagString: Untagged
+  m_TagString: EnemyTrigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

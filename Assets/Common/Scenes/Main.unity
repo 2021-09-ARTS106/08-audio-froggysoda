@@ -474,6 +474,9 @@ MonoBehaviour:
   idleSnapshot: {fileID: 24500006, guid: a3063af9f107ac740be35b41a7338015, type: 2}
   auxInSnapshot: {fileID: 1017101512209715131, guid: a3063af9f107ac740be35b41a7338015,
     type: 2}
+  enemyMask:
+    serializedVersion: 2
+    m_Bits: 1024
 --- !u!1 &518399437
 GameObject:
   m_ObjectHideFlags: 0
