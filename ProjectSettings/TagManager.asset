@@ -8,6 +8,7 @@ TagManager:
   - Doorway
   - HardFloor
   - EnemyTrigger
+  - Ambience
   layers:
   - Default
   - TransparentFX
